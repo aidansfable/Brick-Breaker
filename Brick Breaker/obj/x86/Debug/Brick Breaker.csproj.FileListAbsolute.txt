@@ -1,0 +1,38 @@
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\Brick Breaker.exe
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\Brick Breaker.pdb
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.dll
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.xml
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.csprojResolveAssemblyReference.cache
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.exe
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.pdb
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\Content\ball against bat.xnb
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\Content\ball against wall.xnb
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\Content\Ball.xnb
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\Content\Bat.xnb
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\Content\Blue Brick.xnb
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\Content\breaks brick.xnb
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\Content\Green Brick.xnb
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\Content\Orange Brick.xnb
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\Content\Red Brick.xnb
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\Content\Yellow Brick.xnb
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\Content\NewSpriteFont.xnb
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\Content\Brick.xnb
+E:\Game Dev\Programming\Asessments\Brick Breaker\Brick Breaker\Brick Breaker\bin\Windows\Debug\Content\death.xnb

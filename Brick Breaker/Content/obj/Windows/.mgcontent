@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Game Dev/Programming/Asessments/Brick Breaker/Brick Breaker/Brick Breaker/Content/Ball.png</File>
+    <File>E:/Game Dev/Programming/Asessments/Brick Breaker/Brick Breaker/Brick Breaker/Content/Bat.png</File>
+    <File>E:/Game Dev/Programming/Asessments/Brick Breaker/Brick Breaker/Brick Breaker/Content/Blue Brick.png</File>
+    <File>E:/Game Dev/Programming/Asessments/Brick Breaker/Brick Breaker/Brick Breaker/Content/Green Brick.png</File>
+    <File>E:/Game Dev/Programming/Asessments/Brick Breaker/Brick Breaker/Brick Breaker/Content/Orange Brick.png</File>
+    <File>E:/Game Dev/Programming/Asessments/Brick Breaker/Brick Breaker/Brick Breaker/Content/Red Brick.png</File>
+    <File>E:/Game Dev/Programming/Asessments/Brick Breaker/Brick Breaker/Brick Breaker/Content/Yellow Brick.png</File>
+    <File>E:/Game Dev/Programming/Asessments/Brick Breaker/Brick Breaker/Brick Breaker/Content/ball against bat.wav</File>
+    <File>E:/Game Dev/Programming/Asessments/Brick Breaker/Brick Breaker/Brick Breaker/Content/ball against wall.wav</File>
+    <File>E:/Game Dev/Programming/Asessments/Brick Breaker/Brick Breaker/Brick Breaker/Content/breaks brick.wav</File>
+    <File>E:/Game Dev/Programming/Asessments/Brick Breaker/Brick Breaker/Brick Breaker/Content/NewSpriteFont.spritefont</File>
+    <File>E:/Game Dev/Programming/Asessments/Brick Breaker/Brick Breaker/Brick Breaker/Content/Brick.png</File>
+    <File>E:/Game Dev/Programming/Asessments/Brick Breaker/Brick Breaker/Brick Breaker/Content/death.wav</File>
+  </SourceFiles>
+</SourceFileCollection>
